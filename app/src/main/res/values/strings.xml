@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Musical App</string>
+
+    <string name="podcasts">podcasts screen  \n \nmake ListView and get all songs from device storage by filtering only songs extension</string>
+    <string name="nowplaying">now playing screen  \n \nget media player services to can access and play music</string>
+    <string name="detail_screen">detail music screen  \n \nmake function get the details of the each song</string>
+    <string name="payment"> isReadyToPay() method to check whether the user has the Android Pay app installed and is ready to pay. If this method returns true, show the Android Pay button. If it returns false, display other checkout options along with text notifying the user to set up the Android Pay app. </string>
+
+    <string name="bt_nowplaying">details screen</string>
+    <string name="bt_detail_screen">payment screen</string>
+    <string name="bt_podcasts"> now playing screen </string>
+    <string name="title_activity_payment">Payment</string>
+</resources>
